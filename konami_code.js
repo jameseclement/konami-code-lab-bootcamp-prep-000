@@ -24,7 +24,6 @@ function init() {
       }
        } else {index = 0}
       }
-  
-)
+  )
 }
 
